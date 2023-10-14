@@ -1,5 +1,5 @@
 import './App.css';
-
+import Graph from './components/Graph';
 function App() {
   return (
     <div className="App">
@@ -9,6 +9,7 @@ function App() {
       {/*grid columns*/}
       <div className="grid md:grid-cols-2 gap-4">
         {/*Chart*/}
+        <Graph></Graph>
         {/*Form*/}
       </div>
       </div>      
