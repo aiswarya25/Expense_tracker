@@ -4,17 +4,20 @@ const obj = [
   {
     type:"Savings",
     color:'#f9c74',
-    percent:45
+    percent: 45
+    
   },
   {
     type:"Investment",
     color:'#f9c74',
-    percent:20
+    percent: 20
+    
   },
   {
     type:"Expense",
     color:'rgb(54, 162, 235)',
-    percent:10
+    percent: 10
+    
   }
 ]
 
